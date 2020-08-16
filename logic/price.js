@@ -36,3 +36,5 @@ function Prices() {
     return {calculateFinalPrice, calculateDefaultFinalPrice, calculateTotalFinalPrice};
 
 }
+
+module.exports = Prices();
